@@ -1,6 +1,6 @@
 ---
 # Display name
-name: André Maia Chagas
+name: Dr. rer. nat. André Maia Chagas
 # Username (this should match the folder name)
 authors:
 - andre
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Neural and Behavioural Neurosciences
     institution: University of Tuebingen
-    year: 2020 (expected)
+    year: 2020
   - course: Master of Science in Cellular and Molecular Neurosciences
     institution: University of Tuebingen
     year: 2010
